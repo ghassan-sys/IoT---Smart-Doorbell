@@ -7,6 +7,8 @@ The SmartMeet Doorbell is an innovative project that transforms the way meeting 
 - **Room Availability**: Users can check real-time availability and reserve meeting rooms.
 - **Multi-user Support**: Allows multiple users to interact with the system simultaneously.
 - **Smart Notifications**: Sends alerts when a room is successfully reserved or when reservations are upcoming.
+- **Display**: the OLED screen will present the status of the meeting - sad emoji when the Room is occupied, happy emoji when the room is empty. In addition to that, pressing the button will display more information about the current owner of the meeting (if exist)
+- **Notifications**: When person presses the button outside the Room at a time where the room has an ongoing meeting, a notification will be sent to the meeting owner.
 - **Easy Integration**: Designed to be integrated with existing meeting room management systems.
 
 ## Getting Started
