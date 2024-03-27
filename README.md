@@ -49,9 +49,7 @@ To configure the SmartMeet Doorbell:
 3. Set up room reservation details and timings through the app interface.
 
 ## Application:
-![image](https://github.com/ghassan-sys/IoT---Smart-Doorbell/assets/77061886/9972f84d-52de-438b-82ee-1641229151fe)
-
-
+![image](https://github.com/ghassan-sys/IoT---Smart-Doorbell/assets/77061886/42374189-c3ba-46fd-8848-86aae677cdfd)
 
 ## Contributions:
 - **Students**: Ameer Giryes, Maher Odeh, Ghassan Shaheen
