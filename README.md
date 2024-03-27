@@ -51,6 +51,8 @@ To configure the SmartMeet Doorbell:
 ## Application:
 ![image](https://github.com/ghassan-sys/IoT---Smart-Doorbell/assets/77061886/42374189-c3ba-46fd-8848-86aae677cdfd)
 
+The application supports multi user system where each user can sign up to the application and type in his personal information. each user can set meetings into the room at his desired time period
+
 ## Contributions:
 - **Students**: Ameer Giryes, Maher Odeh, Ghassan Shaheen
 - **Supervisor**: Gilad Shmerler
