@@ -26,7 +26,7 @@ Follow the instructions in the `Connections` section below to assemble the hardw
 
 **Bold and Bright Schematic for Assembly:**
 
-![SmartMeet Doorbell Schematic](image.png)
+![connections](https://github.com/ghassan-sys/IoT---Smart-Doorbell/assets/77061886/f54c2b30-54ef-4614-a98b-7e422cfdc460)
 
 Ensure each component is connected as shown in the schematic. The power source should be capable of supplying 5V to ensure stable operation of the ESP32 module.
 
@@ -45,24 +45,6 @@ To configure the SmartMeet Doorbell:
 2. Send the Wi-Fi credentials from the Android app to the ESP32 to connect it to the network.
 3. Set up room reservation details and timings through the app interface.
 
-## Usage
-
-After installation and configuration:
-
-1. Users can reserve a meeting room through the app.
-2. The OLED display will show the status of the meeting room door.
-3. The push button can be used to simulate a doorbell for the meeting room.
-
-## Contributing
-
-If you would like to contribute to the development of the SmartMeet Doorbell, please fork the repository and submit a pull request with your suggested changes.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-## Acknowledgments
-
-- Thanks to all contributors who have helped to build this project.
-- Special thanks to the open-source community for providing invaluable resources.
-
+## Contributions:
+- **Students**: Ameer Giryes, Maher Odeh, Ghassan Shaheen
+- **Supervisor**: Gilad Shmerler
