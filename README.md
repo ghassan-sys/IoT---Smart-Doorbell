@@ -8,8 +8,9 @@ The SmartMeet Doorbell is an innovative project that transforms the way meeting 
 - **Multi-user Support**: Allows multiple users to interact with the system simultaneously.
 - **Smart Notifications**:
   - When person presses the button outside the Room at a time where the room has an ongoing meeting, a notification will be sent to the meeting owner.
-  - Sends alerts when a room is successfully reserved or when reservations are upcoming.
-- **Display**: the OLED screen will present the status of the meeting - sad emoji when the Room is occupied, happy emoji when the room is empty. In addition to that, pressing the button will display more information about the current owner of the meeting (if exist)
+  - Sends alerts when a room is successfully reserved.
+- **Display**: the OLED screen will present the status of the meeting - sad emoji when the Room is occupied, happy emoji when the room is empty. In addition to that, pressing the button will display more information about the current owner of the meeting (if exist).
+- **WiFi** - The ESP32 will be connected to WiFi via CP2102 controller. in HW, if there is a WiFi loss, an RGB light will blink with Blue Colors. 
 - **Easy Integration**: Designed to be integrated with existing meeting room management systems.
 
 ## Getting Started
@@ -19,6 +20,7 @@ To get started with the SmartMeet Doorbell, you'll need the following hardware:
 - ESP32 with CP2102 module
 - OLED display module
 - Push button
+- RGB light.
 - Power Bank or any 5V power source
 
 Follow the instructions in the `Connections` section below to assemble the hardware.
@@ -49,3 +51,12 @@ To configure the SmartMeet Doorbell:
 ## Contributions:
 - **Students**: Ameer Giryes, Maher Odeh, Ghassan Shaheen
 - **Supervisor**: Gilad Shmerler
+
+## Application:
+The Basics: 
+- **Room Reservation**:
+![image](https://github.com/ghassan-sys/IoT---Smart-Doorbell/assets/77061886/179c1088-7bb6-4c1e-b268-7da0326588eb)
+
+- Login:
+![image](https://github.com/ghassan-sys/IoT---Smart-Doorbell/assets/77061886/947a80aa-9b15-47ca-a2c4-9e1f0c08f376)
+
