@@ -48,10 +48,6 @@ To configure the SmartMeet Doorbell:
 2. Send the Wi-Fi credentials from the Android app to the ESP32 to connect it to the network.
 3. Set up room reservation details and timings through the app interface.
 
-## Contributions:
-- **Students**: Ameer Giryes, Maher Odeh, Ghassan Shaheen
-- **Supervisor**: Gilad Shmerler
-
 ## Application:
 The Basics: 
 - **Room Reservation**:
@@ -60,3 +56,6 @@ The Basics:
 - Login:
 ![image](https://github.com/ghassan-sys/IoT---Smart-Doorbell/assets/77061886/947a80aa-9b15-47ca-a2c4-9e1f0c08f376)
 
+## Contributions:
+- **Students**: Ameer Giryes, Maher Odeh, Ghassan Shaheen
+- **Supervisor**: Gilad Shmerler
